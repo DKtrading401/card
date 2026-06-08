@@ -1,8 +1,8 @@
 export const cards = {
 
-  "dk.kwag": {
+  "dkhd-dk.kwag": {
 
-    slug: "dk.kwag",
+    slug: "dkhd-dk.kwag",
 
     company: "DK Holding GmbH",
 
@@ -29,9 +29,9 @@ export const cards = {
     map:
       "https://maps.google.com/?q=Robert-Bunsen-Straße+41+64579+Gernsheim+Germany",
 
-    qr: "/assets/employees/dk.kwag/qr.png",
+    qr: "/assets/employees/dkhd-dk.kwag/qr.png",
 
-    vcf: "/assets/employees/dk.kwag/dk.kwag.vcf",
+    vcf: "/assets/employees/dkhd-dk.kwag/dk.kwag.vcf",
 
     profile:
       "",
@@ -47,84 +47,145 @@ export const cards = {
 
   },
 
+  "dkeu-dk.kwag": {
 
+    slug: "dkeu-dk.kwag",
 
-  // "max.mueller": {
+    company: "DK Europe GmbH",
 
-  //   slug: "max.mueller",
+    name: "Dongkwon Kwag",
 
-  //   company: "DK Holding GmbH",
+    title: "CEO / Geschäftsführer",
 
-  //   name: "Max Mueller",
+    office: "+49 (0)6258 992 6526",
+    officeLink: "+4962589926526",
 
-  //   title: "Sales Manager",
+    mobile: "+49 (0)176 7263 2504",
+    mobileLink: "+4917672632504",
 
-  //   office: "+49 (0)6258 992 6526",
-  //   officeLink: "+4962589926526",
+    email: "dk.kwag@dk-networks.de",
 
-  //   mobile: "+49 (0)176 1111 2222",
-  //   mobileLink: "+4917611112222",
+    website: "https://www.dk-networks.de",
+    websiteText: "www.dk-networks.de",
 
-  //   email: "max@dk-networks.de",
+    address: [
+      "Robert-Bunsen-Straße 41",
+      "64579 Gernsheim, Germany"
+    ],
 
-  //   website: "https://www.dk-networks.de",
-  //   websiteText: "www.dk-networks.de",
+    map:
+      "https://maps.google.com/?q=Robert-Bunsen-Straße+41+64579+Gernsheim+Germany",
 
-  //   address: [
-  //     "Robert-Bunsen-Straße 41",
-  //     "64579 Gernsheim, Germany"
-  //   ],
+    qr: "/assets/employees/dkeu-dk.kwag/qr.png",
 
-  //   map:
-  //     "https://maps.google.com/?q=Robert-Bunsen-Straße+41+64579+Gernsheim+Germany",
+    vcf: "/assets/employees/dkeu-dk.kwag/dk.kwag.vcf",
 
-  //   qr: "/assets/employees/max.mueller/qr.png",
+    profile:
+      "",
 
-  //   vcf: "/assets/employees/max.mueller/max.mueller.vcf",
+    linkedin:
+      "",
 
-  //   linkedin:
-  //     "https://linkedin.com/in/maxmueller"
+    whatsapp:
+      "",
 
-  // },
+    kakao:
+      ""
 
+  },
 
+  "dklo-dk.kwag": {
 
-  // "john.smith": {
+    slug: "dklo-dk.kwag",
 
-  //   slug: "john.smith",
+    company: "DK Logistics GmbH",
 
-  //   company: "DK Holding GmbH",
+    name: "Dongkwon Kwag",
 
-  //   name: "John Smith",
+    title: "CEO / Geschäftsführer",
 
-  //   title: "Marketing",
+    office: "+49 (0)6258 992 6526",
+    officeLink: "+4962589926526",
 
-  //   office: "+49 (0)6258 992 6526",
-  //   officeLink: "+4962589926526",
+    mobile: "+49 (0)176 7263 2504",
+    mobileLink: "+4917672632504",
 
-  //   mobile: "+49 (0)176 3333 4444",
-  //   mobileLink: "+4917633334444",
+    email: "dk.kwag@dk-networks.de",
 
-  //   email: "john@dk-networks.de",
+    website: "https://www.dk-networks.de",
+    websiteText: "www.dk-networks.de",
 
-  //   website: "https://www.dk-networks.de",
-  //   websiteText: "www.dk-networks.de",
+    address: [
+      "Robert-Bunsen-Straße 41",
+      "64579 Gernsheim, Germany"
+    ],
 
-  //   address: [
-  //     "Robert-Bunsen-Straße 41",
-  //     "64579 Gernsheim, Germany"
-  //   ],
+    map:
+      "https://maps.google.com/?q=Robert-Bunsen-Straße+41+64579+Gernsheim+Germany",
 
-  //   map:
-  //     "https://maps.google.com/?q=Robert-Bunsen-Straße+41+64579+Gernsheim+Germany",
+    qr: "/assets/employees/dklo-dk.kwag/qr.png",
 
-  //   qr: "/assets/employees/john.smith/qr.png",
+    vcf: "/assets/employees/dklo-dk.kwag/dk.kwag.vcf",
 
-  //   vcf: "/assets/employees/john.smith/john.smith.vcf",
+    profile:
+      "",
 
-  //   profile:
-  //     "/assets/employees/john.smith/profile.jpg"
+    linkedin:
+      "",
 
-  // }
+    whatsapp:
+      "",
+
+    kakao:
+      ""
+
+  },
+
+  "dkfd-dk.kwag": {
+
+    slug: "dkfd-dk.kwag",
+
+    company: "DK Foods GmbH",
+
+    name: "Dongkwon Kwag",
+
+    title: "CEO / Geschäftsführer",
+
+    office: "+49 (0)6258 992 6526",
+    officeLink: "+4962589926526",
+
+    mobile: "+49 (0)176 7263 2504",
+    mobileLink: "+4917672632504",
+
+    email: "dk.kwag@dk-networks.de",
+
+    website: "https://www.dk-networks.de",
+    websiteText: "www.dk-networks.de",
+
+    address: [
+      "Robert-Bunsen-Straße 41",
+      "64579 Gernsheim, Germany"
+    ],
+
+    map:
+      "https://maps.google.com/?q=Robert-Bunsen-Straße+41+64579+Gernsheim+Germany",
+
+    qr: "/assets/employees/dkfd-dk.kwag/qr.png",
+
+    vcf: "/assets/employees/dkfd-dk.kwag/dk.kwag.vcf",
+
+    profile:
+      "",
+
+    linkedin:
+      "",
+
+    whatsapp:
+      "",
+
+    kakao:
+      ""
+
+  },
 
 };

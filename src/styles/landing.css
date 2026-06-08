@@ -1,0 +1,93 @@
+.landing-page{
+    min-height:100vh;
+    background:#f5f6f8;
+
+    display:flex;
+    align-items:center;
+    justify-content:center;
+
+    padding:40px;
+}
+
+.landing-inner{
+    width:100%;
+    max-width:1200px;
+
+    text-align:center;
+}
+
+.landing-logo{
+    width:220px;
+    margin-bottom:30px;
+}
+
+.landing-inner h1{
+    font-size:56px;
+    color:#123a5a;
+    margin-bottom:16px;
+}
+
+.landing-inner p{
+    font-size:20px;
+    color:#6b7280;
+    margin-bottom:60px;
+}
+
+.company-grid{
+    display:grid;
+    grid-template-columns:repeat(2,1fr);
+    gap:24px;
+}
+
+.company-card{
+    background:#fff;
+
+    padding:40px;
+
+    border-radius:24px;
+
+    text-decoration:none;
+
+    box-shadow:0 10px 30px rgba(0,0,0,.06);
+
+    transition:.25s ease;
+}
+
+.company-card:hover{
+    transform:translateY(-4px);
+}
+
+.company-card h2{
+    color:#123a5a;
+    font-size:32px;
+    margin-bottom:12px;
+}
+
+.company-card span{
+    color:#6b7280;
+    font-size:18px;
+}
+
+@media (max-width:768px){
+
+    .landing-inner h1{
+        font-size:40px;
+    }
+
+    .landing-inner p{
+        font-size:18px;
+        margin-bottom:40px;
+    }
+
+    .company-grid{
+        grid-template-columns:1fr;
+    }
+
+    .company-card{
+        padding:28px;
+    }
+
+    .company-card h2{
+        font-size:24px;
+    }
+}

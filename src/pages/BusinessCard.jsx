@@ -48,7 +48,7 @@ export default function BusinessCard() {
           <div className="brand-logo">
             <img
               src="/assets/logo.svg"
-              alt="DK Holding GmbH"
+              alt="DK logo"
             />
           </div>
 
