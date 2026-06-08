@@ -6,7 +6,10 @@ import {
   Smartphone,
   Mail,
   Globe,
-  MapPin
+  MapPin,
+  Linkedin,
+  MessageCircle,
+  MessagesSquare
 } from "lucide-react";
 
 export default function BusinessCard() {
@@ -49,11 +52,28 @@ export default function BusinessCard() {
             />
           </div>
 
+          <div className="brand-divider"></div>
+
           <div className="company">
             {card.company}
           </div>
 
         </div>
+
+        {
+          card.profile && (
+
+            <div className="profile-photo">
+
+              <img
+                src={card.profile}
+                alt={card.name}
+              />
+
+            </div>
+
+          )
+        }
 
         <h1 className="name">
           {card.name}
@@ -238,6 +258,58 @@ export default function BusinessCard() {
               <h2>
                 Connect with me
               </h2>
+
+              <div className="social-links">
+
+                {
+
+                  card.linkedin && (
+
+                    <a
+                      href={card.linkedin}
+                      target="_blank"
+                      rel="noreferrer"
+                    >
+                      <Linkedin size={22} />
+                    </a>
+
+                  )
+
+                }
+
+                {
+
+                  card.whatsapp && (
+
+                    <a
+                      href={card.whatsapp}
+                      target="_blank"
+                      rel="noreferrer"
+                    >
+                      <MessageCircle size={22} />
+                    </a>
+
+                  )
+
+                }
+
+                {
+
+                  card.kakao && (
+
+                    <a
+                      href={card.kakao}
+                      target="_blank"
+                      rel="noreferrer"
+                    >
+                      <MessagesSquare size={22} />
+                    </a>
+
+                  )
+
+                }
+
+              </div>
 
               <div className="save-wrap">
 
