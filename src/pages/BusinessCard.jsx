@@ -203,42 +203,59 @@ export default function BusinessCard() {
 
         {/* Address */}
 
-        <div className="section">
+        {card.addresses && card.addresses.length > 0 && (
 
-          <div className="contact-item">
+          <div className="section">
 
-            <div className="contact-head">
+            {card.addresses.map((address, index) => (
 
-              <MapPin
-                className="contact-icon"
-                strokeWidth={2.2}
-              />
-
-              <span className="divider"></span>
-
-              <span className="contact-code">
-                Address
-              </span>
-
-            </div>
-
-            <div className="contact-value">
-
-              <a
-                href={card.map}
-                target="_blank"
-                rel="noreferrer"
+              <div
+                className="contact-item"
+                key={index}
               >
-                {card.address[0]}
-                <br />
-                {card.address[1]}
-              </a>
 
-            </div>
+                <div className="contact-head">
+
+                  <MapPin
+                    className="contact-icon"
+                    strokeWidth={2.2}
+                  />
+
+                  <span className="divider"></span>
+
+                  <span className="contact-code">
+
+                    {address.label || "Address"}
+
+                  </span>
+
+                </div>
+
+                <div className="contact-value">
+
+                  <a
+                    href={address.map}
+                    target="_blank"
+                    rel="noreferrer"
+                  >
+
+                    {address.line1}
+
+                    <br />
+
+                    {address.line2}
+
+                  </a>
+
+                </div>
+
+              </div>
+
+            ))}
 
           </div>
 
-        </div>
+        )}
 
         {/* Footer */}
 

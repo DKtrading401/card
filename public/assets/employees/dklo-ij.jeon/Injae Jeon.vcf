@@ -1,12 +1,12 @@
 BEGIN:VCARD
 VERSION:3.0
-N:Kwag;Dongkwon;;;
-FN:Dongkwon Kwag
+N:Jeon;Injae;;;
+FN:Injae Jeon
 ORG:DK Logistics GmbH
-TITLE:Chairman
+TITLE:Managing Director
 TEL;TYPE=WORK,VOICE:+49 6258 9926526
-TEL;TYPE=CELL:+49 176 72632504
-EMAIL;TYPE=WORK:dk.kwag@dk-networks.de
+TEL;TYPE=CELL:+49 176 69398972
+EMAIL;TYPE=WORK:johan.jeon@dk-networks.de
 URL:https://www.dk-networks.de/
 ADR;TYPE=WORK:;;Robert-Bunsen-Straße 41;Gernsheim;;64579;Germany
 END:VCARD

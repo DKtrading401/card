@@ -1,12 +1,12 @@
 BEGIN:VCARD
 VERSION:3.0
-N:Kwag;Dongkwon;;;
-FN:Dongkwon Kwag
-ORG:DK Logistics GmbH
-TITLE:Chairman
+N:Min;Kyungjun;;;
+FN:Kyungjun Min
+ORG:DK Europe GmbH
+TITLE:Business Operations Manager
 TEL;TYPE=WORK,VOICE:+49 6258 9926526
-TEL;TYPE=CELL:+49 176 72632504
-EMAIL;TYPE=WORK:dk.kwag@dk-networks.de
+TEL;TYPE=CELL:+49 172 9738504
+EMAIL;TYPE=WORK:kj.min@dk-networks.de
 URL:https://www.dk-networks.de/
 ADR;TYPE=WORK:;;Robert-Bunsen-Straße 41;Gernsheim;;64579;Germany
 END:VCARD
