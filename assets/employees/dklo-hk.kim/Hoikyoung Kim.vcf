@@ -1,12 +1,12 @@
 BEGIN:VCARD
 VERSION:3.0
-N:Kwag;Dongkwon;;;
-FN:Dongkwon Kwag
+N:Kim;Hoikyoung;;;
+FN:Hoikyoung Kim
 ORG:DK Logistics GmbH
-TITLE:Chairman
+TITLE:Team Leader
 TEL;TYPE=WORK,VOICE:+49 6258 9926526
-TEL;TYPE=CELL:+49 176 72632504
-EMAIL;TYPE=WORK:dk.kwag@dk-networks.de
+TEL;TYPE=CELL:+49 163 7643173
+EMAIL;TYPE=WORK:hk.kim@dk-networks.de
 URL:https://www.dk-networks.de/
 ADR;TYPE=WORK:;;Robert-Bunsen-Straße 41;Gernsheim;;64579;Germany
 END:VCARD

@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Yuk;Eunjung;;;
+FN:Eunjung Yuk
+ORG:DK Foods GmbH
+TITLE:Branch Manager
+TEL;TYPE=WORK,VOICE:+49 6258 9926526
+TEL;TYPE=WORK,VOICE:+49 6151 9738022
+TEL;TYPE=CELL:+49 163 3958516
+EMAIL;TYPE=WORK:ej.yuk@dk-networks.de
+URL:https://www.dk-networks.de/
+ADR;TYPE=WORK:;;Robert-Bunsen-Straße 41;Gernsheim;;64579;Germany
+ADR;TYPE=WORK:;;Weinbergstraße 44;Darmstadt-Bessungen;;64285;Germany
+END:VCARD

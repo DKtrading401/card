@@ -1,12 +1,12 @@
 BEGIN:VCARD
 VERSION:3.0
-N:Kwag;Dongkwon;;;
-FN:Dongkwon Kwag
-ORG:DK Logistics GmbH
-TITLE:Chairman
+N:Kim;Yeongmin;;;
+FN:Yeongmin Kim
+ORG:DK Europe GmbH
+TITLE:Business Operations Assistant Manager
 TEL;TYPE=WORK,VOICE:+49 6258 9926526
-TEL;TYPE=CELL:+49 176 72632504
-EMAIL;TYPE=WORK:dk.kwag@dk-networks.de
+TEL;TYPE=CELL:+49 157 32540584
+EMAIL;TYPE=WORK:ym.kim@dk-networks.de
 URL:https://www.dk-networks.de/
 ADR;TYPE=WORK:;;Robert-Bunsen-Straße 41;Gernsheim;;64579;Germany
 END:VCARD
