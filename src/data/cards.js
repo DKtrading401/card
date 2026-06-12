@@ -948,8 +948,8 @@ export const cards = {
 
   title: "Branch Manager",
 
-  office: "+49 (0)6258 9926526 / +49 (0)6151 9738022",
-  officeLink: "+4962589926526",
+  office: "+49 (0)6151 9738022",
+  officeLink: "+4961519738022",
 
   mobile: "+49 (0)163 3958516",
   mobileLink: "+491633958516",
