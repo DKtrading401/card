@@ -64,7 +64,7 @@ export const cards = {
 
     title: "CEO",
 
-    office: "49 (0)6258 9926526",
+    office: "+49 (0)6258 9926526",
     officeLink: "+4962589926526",
 
     mobile: "+49 (0)176 72632504",
@@ -128,7 +128,7 @@ export const cards = {
 
     title: "Finance & Administration Manager",
 
-    office: "49 (0)6258 9926526",
+    office: "+49 (0)6258 9926526",
     officeLink: "+4962589926526",
 
     mobile: "+49 (0)176 45976428",
@@ -192,7 +192,7 @@ export const cards = {
 
     title: "Business Operations Manager",
 
-    office: "49 (0)6258 9926526",
+    office: "+49 (0)6258 9926526",
     officeLink: "+4962589926526",
 
     mobile: "+49 (0)172 9738504",
@@ -256,7 +256,7 @@ export const cards = {
 
     title: "Business Operations Manager",
 
-    office: "49 (0)6258 9926526",
+    office: "+49 (0)6258 9926526",
     officeLink: "+4962589926526",
 
     mobile: "+49 (0)172 9738504",
@@ -320,7 +320,7 @@ export const cards = {
 
   title: "Business Operations Assistant Manager",
 
-  office: "49 (0)6258 9926526",
+  office: "+49 (0)6258 9926526",
   officeLink: "+4962589926526",
 
   mobile: "+49 (0)157 32540584",
@@ -384,7 +384,7 @@ export const cards = {
 
   title: "Finance & Administration Coordinator",
 
-  office: "49 (0)6258 9926526",
+  office: "+49 (0)6258 9926526",
   officeLink: "+4962589926526",
 
   mobile: "+49 (0)155 65451881",
@@ -448,7 +448,7 @@ export const cards = {
 
   title: "Chairman",
 
-  office: "49 (0)6258 9926526",
+  office: "+49 (0)6258 9926526",
   officeLink: "+4962589926526",
 
   mobile: "+49 (0)176 72632504",
@@ -512,7 +512,7 @@ export const cards = {
 
   title: "Managing Director",
 
-  office: "49 (0)6258 9926526",
+  office: "+49 (0)6258 9926526",
   officeLink: "+4962589926526",
 
   mobile: "+49 (0)176 69398972",
@@ -576,7 +576,7 @@ export const cards = {
 
   title: "Head of Warehouse",
 
-  office: "49 (0)6258 9926526",
+  office: "+49 (0)6258 9926526",
   officeLink: "+4962589926526",
 
   mobile: "+49 (0)176 57731093",
@@ -640,7 +640,7 @@ export const cards = {
 
   title: "Team Leader",
 
-  office: "49 (0)6258 9926526",
+  office: "+49 (0)6258 9926526",
   officeLink: "+4962589926526",
 
   mobile: "+49 (0)163 7643173",
@@ -704,7 +704,7 @@ export const cards = {
 
   title: "Warehouse Manager",
 
-  office: "49 (0)6258 9926526",
+  office: "+49 (0)6258 9926526",
   officeLink: "+4962589926526",
 
   mobile: "+49 (0)151 64674252",
@@ -768,7 +768,7 @@ export const cards = {
 
   title: "Senior Logistics Coordinator",
 
-  office: "49 (0)6258 9926526",
+  office: "+49 (0)6258 9926526",
   officeLink: "+4962589926526",
 
   mobile: "+49 (0)172 2753895",
@@ -832,7 +832,7 @@ export const cards = {
 
   title: "Logistics Coordinator",
 
-  office: "49 (0)6258 9926526",
+  office: "+49 (0)6258 9926526",
   officeLink: "+4962589926526",
 
   mobile: "+49 (0)176 89213934",
@@ -896,10 +896,10 @@ export const cards = {
 
   title: "CEO / Founder",
 
-  office: "49 (0)6258 9926526",
+  office: "+49 (0)6258 9926526",
   officeLink: "+4962589926526",
 
-  mobile: "49 (0)176 72632504",
+  mobile: "+49 (0)176 72632504",
   mobileLink: "+4917672632504",
 
   email: "dk.kwag@dk-networks.de",
