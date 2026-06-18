@@ -252,17 +252,17 @@ export const cards = {
 
     company: "DK Europe GmbH",
 
-    name: "Kyungjun Min",
+    name: "Kwangyong Park",
 
-    title: "Business Operations Manager",
+    title: "Supply Chain Manager",
 
     office: "+49 (0)6258 9926526",
     officeLink: "+4962589926526",
 
-    mobile: "+49 (0)172 9738504",
-    mobileLink: "+491729738504",
+    mobile: "+49 (0)173 6626183",
+    mobileLink: "+491736626183",
 
-    email: "kj.min@dk-networks.de",
+    email: "ky.park@dk-networks.de",
 
     website: "https://www.dk-networks.de",
     websiteText: "www.dk-networks.de",
