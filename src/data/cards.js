@@ -1000,4 +1000,65 @@ export const cards = {
 
 },
 
+"dkeu-dw.choi": {
+
+  slug: "dkeu-dw.choi",
+
+  company: "DK Europe GmbH",
+
+  name: "Dawon Choi",
+
+  title: "Administrative Assistant",
+
+  office: "+49 (0)6258 9926526",
+  officeLink: "+4962589926526",
+
+  mobile: "+49 (0)176 77875400",
+  mobileLink: "+4917677875400",
+
+  email: "dw.choi@dk-networks.de",
+
+  website: "https://www.dk-networks.de",
+  websiteText: "www.dk-networks.de",
+
+  addresses: [
+
+    {
+      label: "Address(HQ)",
+
+      line1: "Robert-Bunsen-Straße 41, 64579 Gernsheim, Germany",
+
+      line2: "",
+
+      map:
+        "https://maps.google.com/?q=Robert-Bunsen-Straße+41+64579+Gernsheim+Germany"
+    },
+
+    {
+      label: "Address(Warehouse)",
+
+      line1: "Robert-Bunsen-Straße 41-43, 64579 Gernsheim, Germany",
+
+      line2: "",
+
+      map:
+        "https://maps.google.com/?q=Robert-Bunsen-Straße+41-43+64579+Gernsheim+Germany"
+    }
+
+  ],
+
+  qr: "/assets/employees/dkeu-dw.choi/qr.png",
+
+  vcf: "/assets/employees/dkeu-dw.choi/Dawon Choi.vcf",
+
+  profile: "",
+
+  linkedin: "",
+
+  whatsapp: "",
+
+  kakao: ""
+
+},
+
 };

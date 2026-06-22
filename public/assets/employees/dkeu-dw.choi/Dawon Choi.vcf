@@ -1,0 +1,19 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Choi;Dawon;;;
+FN:Dawon Choi
+ORG:DK Europe GmbH
+TITLE:Administrative Assistant
+
+TEL;TYPE=WORK,VOICE:+49 6258 9926526
+TEL;TYPE=CELL:+49 176 77875400
+
+EMAIL;TYPE=INTERNET:dw.choi@dk-networks.de
+
+URL:https://www.dk-networks.de
+
+ADR;TYPE=WORK:;;Robert-Bunsen-Straße 41;Gernsheim;;64579;Germany
+
+NOTE:Warehouse - Robert-Bunsen-Straße 41-43, 64579 Gernsheim, Germany
+
+END:VCARD
