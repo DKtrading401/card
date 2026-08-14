@@ -182,70 +182,6 @@ export const cards = {
 
   },
 
-  "dkeu-kj.min": {
-
-    slug: "dkeu-kj.min",
-
-    company: "DK Europe GmbH",
-
-    name: "Kyungjun Min",
-
-    title: "Business Operations Manager",
-
-    office: "49 (0)6258 9926526",
-    officeLink: "+4962589926526",
-
-    mobile: "+49 (0)172 9738504",
-    mobileLink: "+491729738504",
-
-    email: "kj.min@dk-networks.de",
-
-    website: "https://www.dk-networks.de",
-    websiteText: "www.dk-networks.de",
-
-    addresses: [
-      
-      {
-        label: "Address(HQ)",
-
-        line1: "Robert-Bunsen-Straße 41, 64579 Gernsheim, Germany",
-
-        line2: "",
-
-        map:
-          "https://maps.google.com/?q=Robert-Bunsen-Straße+41+64579+Gernsheim+Germany"
-      },
-      {
-        label: "Address(Warehouse)",
-
-        line1: "Robert-Bunsen-Straße 41-43, 64579 Gernsheim, Germany",
-
-        line2: "",
-
-        map:
-          "https://maps.google.com/?q=Robert-Bunsen-Straße+41+64579+Gernsheim+Germany"
-      }
-
-    ],
-
-    qr: "/assets/employees/dkeu-kj.min/qr.png",
-
-    vcf: "/assets/employees/dkeu-kj.min/Kyungjun Min.vcf",
-
-    profile:
-      "",
-
-    linkedin:
-      "",
-
-    whatsapp:
-      "",
-
-    kakao:
-      ""
-
-  },
-
   "dkeu-ky.park": {
 
     slug: "dkeu-ky.park",
@@ -262,7 +198,7 @@ export const cards = {
     mobile: "+49 (0)172 9738504",
     mobileLink: "+491729738504",
 
-    email: "kj.min@dk-networks.de",
+    email: "ky.park@dk-networks.de",
 
     website: "https://www.dk-networks.de",
     websiteText: "www.dk-networks.de",

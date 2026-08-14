@@ -278,7 +278,7 @@ export default function BusinessCard() {
 
               <div className="social-links">
 
-                {
+                { 
 
                   card.linkedin && (
 
