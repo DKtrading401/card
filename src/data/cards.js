@@ -64,7 +64,7 @@ export const cards = {
 
     title: "CEO",
 
-    office: "49 (0)6258 9926526",
+    office: "+49 (0)6258 9926526",
     officeLink: "+4962589926526",
 
     mobile: "+49 (0)176 72632504",
@@ -128,7 +128,7 @@ export const cards = {
 
     title: "Finance & Administration Manager",
 
-    office: "49 (0)6258 9926526",
+    office: "+49 (0)6258 9926526",
     officeLink: "+4962589926526",
 
     mobile: "+49 (0)176 45976428",
@@ -182,9 +182,11 @@ export const cards = {
 
   },
 
-  "dkeu-ky.park": {
+<<<<<<< HEAD
+=======
+  "dkeu-kj.min": {
 
-    slug: "dkeu-ky.park",
+    slug: "dkeu-kj.min",
 
     company: "DK Europe GmbH",
 
@@ -192,11 +194,76 @@ export const cards = {
 
     title: "Business Operations Manager",
 
-    office: "49 (0)6258 9926526",
+    office: "+49 (0)6258 9926526",
     officeLink: "+4962589926526",
 
     mobile: "+49 (0)172 9738504",
     mobileLink: "+491729738504",
+
+    email: "kj.min@dk-networks.de",
+
+    website: "https://www.dk-networks.de",
+    websiteText: "www.dk-networks.de",
+
+    addresses: [
+      
+      {
+        label: "Address(HQ)",
+
+        line1: "Robert-Bunsen-Straße 41, 64579 Gernsheim, Germany",
+
+        line2: "",
+
+        map:
+          "https://maps.google.com/?q=Robert-Bunsen-Straße+41+64579+Gernsheim+Germany"
+      },
+      {
+        label: "Address(Warehouse)",
+
+        line1: "Robert-Bunsen-Straße 41-43, 64579 Gernsheim, Germany",
+
+        line2: "",
+
+        map:
+          "https://maps.google.com/?q=Robert-Bunsen-Straße+41+64579+Gernsheim+Germany"
+      }
+
+    ],
+
+    qr: "/assets/employees/dkeu-kj.min/qr.png",
+
+    vcf: "/assets/employees/dkeu-kj.min/Kyungjun Min.vcf",
+
+    profile:
+      "",
+
+    linkedin:
+      "",
+
+    whatsapp:
+      "",
+
+    kakao:
+      ""
+
+  },
+
+>>>>>>> c45c718b4b7576cb1ff728c759473128b32b4030
+  "dkeu-ky.park": {
+
+    slug: "dkeu-ky.park",
+
+    company: "DK Europe GmbH",
+
+    name: "Kwangyong Park",
+
+    title: "Supply Chain Manager",
+
+    office: "+49 (0)6258 9926526",
+    officeLink: "+4962589926526",
+
+    mobile: "+49 (0)173 6626183",
+    mobileLink: "+491736626183",
 
     email: "ky.park@dk-networks.de",
 
@@ -256,7 +323,7 @@ export const cards = {
 
   title: "Business Operations Assistant Manager",
 
-  office: "49 (0)6258 9926526",
+  office: "+49 (0)6258 9926526",
   officeLink: "+4962589926526",
 
   mobile: "+49 (0)157 32540584",
@@ -320,7 +387,7 @@ export const cards = {
 
   title: "Finance & Administration Coordinator",
 
-  office: "49 (0)6258 9926526",
+  office: "+49 (0)6258 9926526",
   officeLink: "+4962589926526",
 
   mobile: "+49 (0)155 65451881",
@@ -384,7 +451,7 @@ export const cards = {
 
   title: "Chairman",
 
-  office: "49 (0)6258 9926526",
+  office: "+49 (0)6258 9926526",
   officeLink: "+4962589926526",
 
   mobile: "+49 (0)176 72632504",
@@ -448,7 +515,7 @@ export const cards = {
 
   title: "Managing Director",
 
-  office: "49 (0)6258 9926526",
+  office: "+49 (0)6258 9926526",
   officeLink: "+4962589926526",
 
   mobile: "+49 (0)176 69398972",
@@ -512,7 +579,7 @@ export const cards = {
 
   title: "Head of Warehouse",
 
-  office: "49 (0)6258 9926526",
+  office: "+49 (0)6258 9926526",
   officeLink: "+4962589926526",
 
   mobile: "+49 (0)176 57731093",
@@ -576,7 +643,7 @@ export const cards = {
 
   title: "Team Leader",
 
-  office: "49 (0)6258 9926526",
+  office: "+49 (0)6258 9926526",
   officeLink: "+4962589926526",
 
   mobile: "+49 (0)163 7643173",
@@ -640,7 +707,7 @@ export const cards = {
 
   title: "Warehouse Manager",
 
-  office: "49 (0)6258 9926526",
+  office: "+49 (0)6258 9926526",
   officeLink: "+4962589926526",
 
   mobile: "+49 (0)151 64674252",
@@ -704,7 +771,7 @@ export const cards = {
 
   title: "Senior Logistics Coordinator",
 
-  office: "49 (0)6258 9926526",
+  office: "+49 (0)6258 9926526",
   officeLink: "+4962589926526",
 
   mobile: "+49 (0)172 2753895",
@@ -768,7 +835,7 @@ export const cards = {
 
   title: "Logistics Coordinator",
 
-  office: "49 (0)6258 9926526",
+  office: "+49 (0)6258 9926526",
   officeLink: "+4962589926526",
 
   mobile: "+49 (0)176 89213934",
@@ -832,10 +899,10 @@ export const cards = {
 
   title: "CEO / Founder",
 
-  office: "49 (0)6258 9926526",
+  office: "+49 (0)6258 9926526",
   officeLink: "+4962589926526",
 
-  mobile: "49 (0)176 72632504",
+  mobile: "+49 (0)176 72632504",
   mobileLink: "+4917672632504",
 
   email: "dk.kwag@dk-networks.de",
@@ -933,6 +1000,67 @@ export const cards = {
 
   kakao:
     ""
+
+},
+
+"dkeu-dw.choi": {
+
+  slug: "dkeu-dw.choi",
+
+  company: "DK Europe GmbH",
+
+  name: "Dawon Choi",
+
+  title: "Administrative Assistant",
+
+  office: "+49 (0)6258 9926526",
+  officeLink: "+4962589926526",
+
+  mobile: "+49 (0)176 77875400",
+  mobileLink: "+4917677875400",
+
+  email: "dw.choi@dk-networks.de",
+
+  website: "https://www.dk-networks.de",
+  websiteText: "www.dk-networks.de",
+
+  addresses: [
+
+    {
+      label: "Address(HQ)",
+
+      line1: "Robert-Bunsen-Straße 41, 64579 Gernsheim, Germany",
+
+      line2: "",
+
+      map:
+        "https://maps.google.com/?q=Robert-Bunsen-Straße+41+64579+Gernsheim+Germany"
+    },
+
+    {
+      label: "Address(Warehouse)",
+
+      line1: "Robert-Bunsen-Straße 41-43, 64579 Gernsheim, Germany",
+
+      line2: "",
+
+      map:
+        "https://maps.google.com/?q=Robert-Bunsen-Straße+41-43+64579+Gernsheim+Germany"
+    }
+
+  ],
+
+  qr: "/assets/employees/dkeu-dw.choi/qr.png",
+
+  vcf: "/assets/employees/dkeu-dw.choi/Dawon Choi.vcf",
+
+  profile: "",
+
+  linkedin: "",
+
+  whatsapp: "",
+
+  kakao: ""
 
 },
 
